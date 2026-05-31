@@ -54,24 +54,43 @@ This is not a course. It is an internship-style program — real deployments, re
 
 ## My DevOps Stack
 
-*Badges unlock as I complete each week:*
+*Badges unlock as I complete each week. To unlock: remove the `<!--` and `-->` around the badge line.*
 
-<!-- Uncomment each badge as you complete the week -->
+<!-- Week 02 → Agentic AI with Claude Code -->
+<!-- ![AI](https://img.shields.io/badge/Agentic_AI-Claude_Code-purple?style=flat-square&logo=anthropic) -->
 
-<!--
-![AI](https://img.shields.io/badge/Agentic_AI-Claude_Code-purple?style=flat-square&logo=anthropic)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?style=flat-square&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-Scripting-green?style=flat-square&logo=gnubash)
-![Git](https://img.shields.io/badge/Git-GitHub-black?style=flat-square&logo=github)
-![Agile](https://img.shields.io/badge/Agile-Jira-blue?style=flat-square&logo=jira)
-![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat-square&logo=microsoftazure)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-red?style=flat-square&logo=ansible)
-![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-CI%2FCD-0078D7?style=flat-square&logo=azuredevops)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes)
--->
+<!-- Week 03 → Linux for DevOps -->
+<!-- ![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?style=flat-square&logo=linux) -->
+
+<!-- Week 04 → Bash Scripting -->
+<!-- ![Bash](https://img.shields.io/badge/Bash-Scripting-green?style=flat-square&logo=gnubash) -->
+
+<!-- Week 05 → Git & GitHub -->
+<!-- ![Git](https://img.shields.io/badge/Git-GitHub-black?style=flat-square&logo=github) -->
+
+<!-- Week 06 → DevOps Lifecycle & Agile -->
+<!-- ![Agile](https://img.shields.io/badge/Agile-Jira-blue?style=flat-square&logo=jira) -->
+
+<!-- Week 07 → AWS Cloud -->
+<!-- ![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazonaws) -->
+
+<!-- Week 08 → Azure Cloud -->
+<!-- ![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat-square&logo=microsoftazure) -->
+
+<!-- Week 09 → Terraform -->
+<!-- ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=flat-square&logo=terraform) -->
+
+<!-- Week 10 → Ansible -->
+<!-- ![Ansible](https://img.shields.io/badge/Ansible-Automation-red?style=flat-square&logo=ansible) -->
+
+<!-- Week 11 → Azure DevOps CI/CD -->
+<!-- ![AzureDevOps](https://img.shields.io/badge/Azure_DevOps-CI%2FCD-0078D7?style=flat-square&logo=azuredevops) -->
+
+<!-- Week 12 → Docker -->
+<!-- ![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker) -->
+
+<!-- Week 13 → Kubernetes -->
+<!-- ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes) -->
 
 *Complete a week → uncomment the badge → watch your stack grow.*
 
