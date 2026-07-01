@@ -32,8 +32,9 @@ You will reuse this in later weeks. So do it properly once.
 **Hint:** What do you believe about career, money, learning, discipline, relationships, health, success, life, tech industry, etc. that most people don't agree with?
 
 ## Answer
+I believe we as individual have the power to change our lives if we are determined and focused. The background where we are coming from doesn't determine if we will have agoood. have a clear picture and goal
+ I believe that there's no limit to what our brain can retain or remember. we just need to keep learning while our brain keep adjusting by learning our study pattern.
 
-Add your answer here...
 
 ---
 
@@ -55,11 +56,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+The truth is that no one learns anything by just scanning through a book or a writeup. True reading comes when you try to rewrite or repeat that same thing in a new book as though you were in an examination call
 
 ### Evidence from my life
 
-Add your answer here...
+The Evidence from my life was that when I started learning coding, I will thing that I have learnt how to code, not until I am in a situation where I need to apply it to actual problem it self then I will now realoze I was wasting time all along so this taught me the power of implementing repeatedly until it becomes part of me
 
 ---
 
@@ -67,11 +68,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Have a mentor
 
 ### Evidence from my life
 
-Add your answer here...
+This is evident in my career because I know that if I had a mentor when I started my career to guide what career path to followni believe I would have gone far, which made me to try out many things without becoming good at it.
 
 ---
 
@@ -79,7 +80,7 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+
 
 ### Evidence from my life
 
@@ -167,14 +168,14 @@ This is about self-awareness, not judgment.
 
 **Yes / No**
 
-If Yes:
+If Yes: yes
 
 **What emotion did you feel?** (minimum 50–100 words)
 
 ## Answer
 
-Add your answer here...
-
+Add your answer here
+I have cut corners while I was learning in the past and It affected me so well that I now know better
 ---
 
 # Assignment 5. What are 10 non-fiction books you plan to read in the next 1 year?
@@ -332,7 +333,7 @@ Add your answer here...
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+From this week going forward I will Write out my weekly goals, 
 
 ### LinkedIn Post
 
