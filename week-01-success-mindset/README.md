@@ -200,16 +200,18 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Habits by James Clear
+2. Think & Grow Rich by Napoleon Hill
+3. Mindset by Dr Carol S. Dweck
+4. The Almanack of Naval Ravikan by Erick Jorgenson
+5. Anything you want by Derek siver
+6. The Emyth Enterprise by Michael.E
+7. The diary  of a ceo by Steven Bartieft 
+8. The personal MBA by Josh Kaufman
+9. The Slight Edge by Jeff Olson
+10. 100 million dollars offer by Alex Hormozi
+11. Zero to One, by Peter Thiel
+12. The phycology of money
 
 ---
 
@@ -238,13 +240,13 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Atomic Habits by James Clear
-* Think &Grow Rich by Napoleon Hill
-* Mindset by Dr Carol S. Dweck
-* The Almanack of Naval Ravikan by Erick Jorgenson
-* Anything you want by Derek siver
-* The Emyth Enterprise by Michael.E
-* The diary  of a ceoby Steven Barth
+*  
+* 
+* 
+* 
+* 
+* 
+* 
 * Add your answer here...
 * Add your answer here...
 * Add your answer here...
@@ -271,9 +273,11 @@ Examples:
 
 **Yes / No**
 
-Answer:
+Answer: yes
 
-Add your answer here...
+I wrote down the goals I want to achieve in the next one year
+The worries
+
 
 ---
 
