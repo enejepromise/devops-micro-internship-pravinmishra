@@ -32,8 +32,9 @@ You will reuse this in later weeks. So do it properly once.
 **Hint:** What do you believe about career, money, learning, discipline, relationships, health, success, life, tech industry, etc. that most people don't agree with?
 
 ## Answer
-I believe we as individual have the power to change our lives if we are determined and focused. The background where we are coming from doesn't determine if we will have agoood. have a clear picture and goal
- I believe that there's no limit to what our brain can retain or remember. we just need to keep learning while our brain keep adjusting by learning our study pattern.
+I believe that we, as individuals, have the power to change our lives if we are determined, disciplined, and focused. The background we come from does not determine whether we will have a good future or not. If we have a clear vision, set meaningful goals, and stay committed to them, we can achieve far more than most people think.
+
+I also believe there is no real limit to what our brains can retain or remember. Our brains keep adapting as we learn. We just need to keep learning, discover the study pattern that works best for us, and remain consistent. With time and practice, we can understand and master things that once seemed impossible..
 
 
 ---
@@ -56,11 +57,13 @@ Write each truth in this format:
 
 ### Truth
 
-The truth is that no one learns anything by just scanning through a book or a writeup. True reading comes when you try to rewrite or repeat that same thing in a new book as though you were in an examination call
+People do not truly learn something by just reading or scanning through a book. Real learning happens when they can explain, rewrite, or apply what they have learned.
+
 
 ### Evidence from my life
 
-The Evidence from my life was that when I started learning coding, I will thing that I have learnt how to code, not until I am in a situation where I need to apply it to actual problem it self then I will now realoze I was wasting time all along so this taught me the power of implementing repeatedly until it becomes part of me
+When I started learning to code, I thought I understood the concepts just because I had read them. However, whenever I had to solve a real problem or build a project, I realized I couldn't apply what I had learned. That experience taught me that implementation and repeated practice are what make knowledge stick.
+
 
 ---
 
@@ -68,23 +71,22 @@ The Evidence from my life was that when I started learning coding, I will thing 
 
 ### Truth
 
-Have a mentor
+Having a mentor helps you avoid unnecessary mistakes and reach your goals faster.
 
 ### Evidence from my life
 
-This is evident in my career because I know that if I had a mentor when I started my career to guide what career path to followni believe I would have gone far, which made me to try out many things without becoming good at it.
-
+I have seen this in my own career. If I had a mentor from the beginning to guide me on the right career path, I believe I would have made better decisions and progressed much faster. Instead, I spent time trying many different things without becoming truly skilled at any of them
 ---
 
 ## Truth #3
 
 ### Truth
-
-
+Consistency produces better results than motivation.
 
 ### Evidence from my life
 
-Add your answer here...
+There were times I felt highly motivated to learn, but that excitement didn't last long. The biggest improvements in my skills came when I showed up consistently, even on days I didn't feel like it. Over time, those small, repeated efforts produced far better results than relying on motivation alone.
+
 
 ---
 
@@ -174,8 +176,7 @@ If Yes: yes
 
 ## Answer
 
-Add your answer here
-I have cut corners while I was learning in the past and It affected me so well that I now know better
+I have cut corners while learning in the past, and it affected me more than I expected. At first, I thought I was saving time, but later I realized I was only cheating myself. When I had to apply what I thought I had learned, I struggled because I didn't truly understand the concepts. I felt disappointed, frustrated, and regretful. That experience taught me that shortcuts in learning only delay real growth. Since then, I have become more intentional about practicing, understanding concepts deeply, and earning my knowledge instead of rushing through the process.
 ---
 
 # Assignment 5. What are 10 non-fiction books you plan to read in the next 1 year?
@@ -240,16 +241,14 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-*  
-* 
-* 
-* 
-* 
-* 
-* 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+*  Hours spent learning and improving my technical skills each week.
+*  Deep work sessions completed without distractions.
+*  DevOps assignments completed each week.
+*  Personal projects built, documented, and published.
+*  Time spent documenting my learning and sharing it publicly.
+*  Hours spent exercising each week.
+*  Hours of sleep each night.
+*  Daily energy and productivity level.
 
 ---
 
@@ -275,10 +274,7 @@ Examples:
 
 Answer: yes
 
-I wrote down the goals I want to achieve in the next one year
-The worries
-
-
+I wrote down the goals I want to achieve over the next one year, the worries on my mind, the tasks I need to complete daily, the people who have hurt me, my fears, my doubts, and other thoughts that have been occupying my mind. Writing everything down helped me clear my head and gave me a better picture of what I need to focus on moving forward
 ---
 
 ## Step 2: Your 5-Month Routine + Focus Blocks
@@ -295,7 +291,9 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday – Friday: 4–5 hours of deep learning and completing my DevOps assignments.
+Saturday: Attend DMI sessions, revise my notes, and practice what I learned.
+Sunday: Review my weekly progress, document my learning, plan the next week, and rest.
 
 ---
 
@@ -303,11 +301,10 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Monday – Friday: 8:00 AM – 1:00 PM (with short breaks between study sessions).
 
 #### How Many Sessions Per Week?
-
-Add your answer here...
+5 deep work sessions per week
 
 ---
 
@@ -321,7 +318,11 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Once I start studying, I will keep my phone at least 20 meters away from me.
+I will put my phone on silent mode before every study session.
+I will not open any social media apps during my study hours.
+I will not eat while studying, except during my scheduled break time.
+I will study in a quiet environment with only the materials I need.
 
 ---
 
@@ -329,15 +330,13 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that I learn best when I apply what I study immediately instead of just reading. I also discovered that consistency is more important than waiting to feel motivated.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
-
+tend to overthink, get distracted, and sometimes spend too much time consuming information instead of implementing what I have learned. This slows down my progres
 ### One system I will implement from this week (exact habit + time)
-
-From this week going forward I will Write out my weekly goals, 
+From this week going forward, I will write out my weekly goals every Sunday at 7:00 PM and review them every morning before I start studying. This will help me stay focused and accountable throughout the week
 
 ### LinkedIn Post
 
