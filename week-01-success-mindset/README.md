@@ -95,6 +95,19 @@ There were times I felt highly motivated to learn, but that excitement didn't la
 ### Instructions
 
 Write as if a journalist is writing about you **3 to 7 years from now** (not 20 years).
+Five years after making the decision to take my career seriously, Eneje Promise had transformed from a self-taught Chemical Engineering graduate into one of Africa's respected DevOps and AI Automation Engineers. The journey began when the rapid advancement of artificial intelligence changed the way companies operated. Instead of resisting the change, she embraced it by learning AI automation. During that training, she discovered that DevOps was, in many ways, an advanced form of automation. That discovery completely changed the direction of her career.
+
+She enrolled in a practical DevOps internship, where she built real-world projects, deployed applications, automated infrastructure, and mastered cloud technologies. Her GitHub portfolio became filled with practical DevOps projects that demonstrated her technical skills, while her blog documented her learning journey and helped thousands of aspiring engineers understand complex concepts in simple terms. She also earned industry certifications in cloud computing and DevOps, making her profile stand out in the global technology industry.
+
+The experience opened doors she had never imagined. She became an active member of the AWS Builders Community, one of the communities she had always dreamed of joining. Through her contributions, mentorship, and technical content, she earned recognition as one of the leading DevOps engineers in Africa.
+
+She later founded her own academy, where she trained hundreds of students in AI Automation, DevOps, cloud computing, and career development. Many of her students successfully transitioned into tech careers because of the practical knowledge and mentorship they received through her programs.
+
+Her passion for teaching extended beyond her academy. She became a lecturer in the Computer Science department of a university, combining academic knowledge with real industry experience. Every lecture inspired students to build practical skills instead of relying only on theory. This achievement brought her closer to fulfilling one of her late father's greatest dreams—to see her become a professor.
+
+She also published her first book on Amazon, sharing the lessons, failures, discipline, and resilience that shaped her journey. The book inspired many people who came from difficult backgrounds to believe that consistent learning and deliberate practice could change their lives.
+
+Looking back, her success was not defined only by the awards she received or the positions she held. It was measured by the lives she changed, the communities she built, the knowledge she shared, and the legacy she created through teaching, innovation, and service.
 
 **Minimum 300 words.**
 
