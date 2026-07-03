@@ -151,12 +151,12 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+Add your answer her
 
 ### Public Link
 
 Paste your link here:
-
+https://medium.com/@enejepromise/five-years-after-making-the-decision-to-take-my-career-seriously-eneje-promise-had-transformed-14b855320a61
 `__________________________`
 
 ---
@@ -362,7 +362,7 @@ Paste your LinkedIn post link here:
 ## 10. Proof of Work
 
 - LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- Blog / Medium : **https://medium.com/@enejepromise/five-years-after-making-the-decision-to-take-my-career-seriously-eneje-promise-had-transformed-14b855320a61 **  
 
 ---
 
