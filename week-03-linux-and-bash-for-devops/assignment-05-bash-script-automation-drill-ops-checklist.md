@@ -107,13 +107,13 @@ Use variables to store and display user-related information.
 
 #### Screenshot 1 — Content of `user-info.sh`
 
-Add your screenshot here.
+![alt text](<task 5 6.PNG>)
 
 ---
 
 #### Screenshot 2 — Output of `./user-info.sh`
 
-Add your screenshot here.
+![alt text](<task 5 7.PNG>)
 
 ---
 
@@ -123,20 +123,17 @@ Answer the following in your own words:
 
 **1. What is a variable in Bash?**
 
-Add your answer here.
-
+A variable in Bash is a named container used to store data or values that can be accessed and reused throughout a script.
 ---
 
 **2. Why should we avoid spaces around the `=` sign when creating variables?**
 
-Add your answer here.
-
+Spaces are not allowed around the = sign because Bash interprets spaces as separators between commands and arguments. Using spaces causes Bash to treat the variable name as a command instead of a variable assignment.
 ---
 
 **3. How do you access the value stored inside a Bash variable?**
 
-Add your answer here.
-
+You access the value of a Bash variable by placing a dollar sign ($) before the variable name, for example: echo $name.
 ---
 
 # Task 4 — Arrays & Loops: Tools Checklist Script
@@ -149,13 +146,12 @@ Use arrays and loops to print a checklist of tools used in Bash scripting.
 
 #### Screenshot 1 — Content of `tools-checklist.sh`
 
-Add your screenshot here.
-
+![alt text](<task 5 8.PNG>)
 ---
 
 #### Screenshot 2 — Output of `./tools-checklist.sh`
 
-Add your screenshot here.
+![alt text](<task 5 9.PNG>)
 
 ---
 
@@ -165,26 +161,22 @@ Answer the following in your own words:
 
 **1. What is an array in Bash?**
 
-Add your answer here.
-
+An array in Bash is a variable that can store multiple values under a single variable name.
 ---
 
 **2. Why are arrays useful in scripts?**
 
-Add your answer here.
-
+Arrays are useful because they allow multiple related values to be stored in a single variable, making scripts shorter, easier to manage, and ideal for automation.
 ---
 
 **3. What does `"${tools[@]}"` mean?**
 
-Add your answer here.
-
+${tools[@]} represents all the elements stored in the tools array. It is commonly used to loop through or display every item in the array.
 ---
 
 **4. What is the purpose of the `for` loop in this script?**
 
-Add your answer here.
-
+The purpose of the for loop is to repeat a block of commands for each item in a list or array. In this script, it goes through every element in the tools array one by one and executes the commands inside the loop for each element
 ---
 
 # Task 5 — Loops: Number Counter Script
@@ -197,13 +189,13 @@ Use loops to repeat a task multiple times.
 
 #### Screenshot 1 — Content of `counter.sh`
 
-Add your screenshot here.
+![alt text](<task 5 10.PNG>)
 
 ---
 
 #### Screenshot 2 — Output of `./counter.sh`
 
-Add your screenshot here.
+![alt text](<task 5 11.PNG>)
 
 ---
 
@@ -213,25 +205,24 @@ Answer the following in your own words:
 
 **1. What is a loop?**
 
-Add your answer here.
-
+A loop is a programming structure that repeatedly executes a block of code until a specified condition is met or all items in a list have been processed.
 ---
 
 **2. Why do we use loops in Bash scripting?**
 
-Add your answer here.
-
+We use loops in Bash scripting to automate repetitive tasks. Loops reduce the amount of code we write, save time, and make scripts easier to read and maintain.
 ---
 
 **3. How many times did the loop run in your script?**
 
-Add your answer here.
+The loop ran 5 times
 
 ---
 
 **4. What would you change if you wanted the loop to run 10 times?**
 
-Add your answer here.
+if i wanted to the loop run 10 times, i will change the for number in 1 2 3 4 5 to a list {1..10}
+
 
 ---
 
