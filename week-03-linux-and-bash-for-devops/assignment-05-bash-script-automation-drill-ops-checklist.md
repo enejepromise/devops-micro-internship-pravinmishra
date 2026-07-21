@@ -236,19 +236,19 @@ Use file checks and conditionals to verify whether files and directories exist.
 
 #### Screenshot 1 — Output of `ls -lah ../test-folder`
 
-Add your screenshot here.
+![alt text](<task 5 12.PNG>)
 
 ---
 
 #### Screenshot 2 — Content of `file-check.sh`
 
-Add your screenshot here.
+![alt text](<task 5 13.PNG>)
 
 ---
 
 #### Screenshot 3 — Output of `./file-check.sh`
 
-Add your screenshot here.
+![alt text](<task 5 14.PNG>)
 
 ---
 
@@ -258,26 +258,22 @@ Answer the following in your own words:
 
 **1. What does `-d` check in Bash?**
 
-Add your answer here.
-
+-d checks whether a specified path exists and is a directory (folder). If the directory exists, the test returns true.
 ---
 
 **2. What does `-f` check in Bash?**
 
-Add your answer here.
-
+-f checks whether a specified path exists and is a regular file. If the file exists, the test returns true.
 ---
 
 **3. Why should file and directory paths be stored in variables?**
 
-Add your answer here.
-
+File and directory paths should be stored in variables because it makes scripts easier to read, maintain, and update. If a path changes, you only need to update the variable instead of changing it in multiple places.
 ---
 
 **4. What happens if the file does not exist?**
 
-Add your answer here.
-
+If the file does not exist, the -f test returns false. If the script tries to access the file without checking first, Bash may display an error such as "No such file or directory."
 ---
 
 # Task 7 — Conditionals: Pass or Retry Script
@@ -290,25 +286,25 @@ Use if-else conditionals to make decisions based on a variable value.
 
 #### Screenshot 1 — Content of `score-check.sh` with `score=85`
 
-Add your screenshot here.
+![alt text](<task 5 85.PNG>)
 
 ---
 
 #### Screenshot 2 — Output showing `Result: Pass`
 
-Add your screenshot here.
+![alt text](<task 5 pass.PNG>)
 
 ---
 
 #### Screenshot 3 — Content of `score-check.sh` with `score=55`
 
-Add your screenshot here.
+![alt text](<task 5 55.PNG>)
 
 ---
 
 #### Screenshot 4 — Output showing `Result: Retry`
 
-Add your screenshot here.
+![alt text](<task 5 fail-1.PNG>)
 
 ---
 
@@ -318,26 +314,22 @@ Answer the following in your own words:
 
 **1. What is the purpose of if-else in Bash?**
 
-Add your answer here.
-
+The purpose of if-else in Bash is to make decisions based on conditions. It executes one block of code if the condition is true and another block if the condition is false.
 ---
 
 **2. What does `-ge` mean?**
 
-Add your answer here.
-
+-ge is a comparison operator that checks whether one number is greater than or equal to another number.
 ---
 
 **3. Why should conditions be tested with different values?**
 
-Add your answer here.
-
+Conditions should be tested with different values to ensure the script works correctly in different situations and handles both true and false outcomes as expected.
 ---
 
 **4. How can conditionals help in automation scripts?**
 
-Add your answer here.
-
+Conditionals help in automation scripts by allowing the script to make decisions based on different conditions. They enable scripts to perform the appropriate action automatically, such as checking if a file exists, verifying user input, or handling errors before continuing.
 ---
 
 # Task 8 — Functions: Final Bash Automation Script
@@ -350,20 +342,18 @@ Create a final Bash script using functions to organize reusable code.
 
 #### Screenshot 1 — Content of `final-automation.sh`
 
-Add your screenshot here.
-
+![alt text](<task 5 final.PNG>)
 ---
 
 #### Screenshot 2 — Output of `./final-automation.sh`
 
-Add your screenshot here.
+![alt text](<task 5 final 2.PNG>)
 
 ---
 
 #### Screenshot 3 — Output of `ls -lah` showing all created scripts
 
-Add your screenshot here.
-
+![alt text](<task 5 last.PNG>)
 ---
 
 ### Notes
@@ -372,26 +362,22 @@ Answer the following in your own words:
 
 **1. What is a function in Bash?**
 
-Add your answer here.
-
+A function in Bash is a named block of reusable code that performs a specific task. It can be called whenever that task needs to be executed.
 ---
 
 **2. Why are functions useful in scripts?**
 
-Add your answer here.
-
+Functions are useful because they allow code to be written once and reused multiple times. This reduces repetition, improves readability, and makes scripts easier to maintain and update.
 ---
 
 **3. Which functions did you create in this script?**
 
-Add your answer here.
-
+The functions I created are print_header() and print_user_details(). The print_header() function displays the script header, while the print_user_details() function displays my name and the assignment name.
 ---
 
 **4. How does this final script combine variables, arrays, loops, conditionals, files, and functions?**
 
-Add your answer here.
-
+The final script combines variables to store data, arrays to hold multiple values, loops to repeat tasks, conditionals to make decisions, file checks to verify the existence of files or directories, and functions to organize reusable code into separate tasks. Together, these features create a structured, efficient, and automated Bash script.
 ---
 
 # LinkedIn Post (Required)
