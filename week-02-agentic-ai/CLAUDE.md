@@ -4,6 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Context
 
+Static HTML/CSS portfolio website deployed to AWS using S3 and CloudFront, provisioned with Terraform, and automated via GitHub Actions.
 This is **Week 2: Agentic AI** from the DevOps Micro Internship (DMI) Cohort 3. The project is a learning-focused assignment track covering Claude Code capabilities and agentic AI patterns. The learner is completing 8 sequential assignments to build practical knowledge of:
 
 - The Agentic Loop (Gather → Act → Verify)

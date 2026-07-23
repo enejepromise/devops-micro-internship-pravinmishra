@@ -20,7 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-Add your screenshot here.
+![Screenshot 1](./screenshots/task-4-1-agents-folders.PNG)
 
 ---
 
@@ -34,19 +34,21 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
+The cost optimizer runs a fast, checklist-style scan of the Terraform (CloudFront price class, S3 storage class, lifecycle rules, cache settings) rather than deep reasoning. Haiku is faster and cheaper, which suits a lightweight, frequently-run check. Using Sonnet would cost more and run slower for no real gain, so Haiku is the deliberate choice. There is also a fitting logic to it: a cost-optimization agent should itself be cost-optimized. In my run, the cost optimizer finished in about 38 seconds on Haiku, while the security auditor took about 2 minutes 22 seconds on Sonnet.
+
 
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
+The security auditor's job is to review and report, not to change anything. Without Write access it physically cannot modify the infrastructure it is auditing, which removes any risk of it altering the Terraform and keeps the review objective. This is least privilege: the agent gets only the tools its task needs (Read, Grep, Glob) and nothing more. My audit report confirmed this in practice, it stated explicitly that no files were modified.
+
 
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
+Generating Terraform is the most complex and highest-stakes of the three tasks, so it should run on the strongest model available. inherit makes tf-writer use the same model as the main session (Opus, in my setup) instead of being pinned to a fixed one. That keeps its quality aligned with the parent session and means it automatically benefits from any future model upgrade without editing the agent file.
 
 ---
 
@@ -54,14 +56,13 @@ Add your answer here...
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
-
+![Screenshot 2](./screenshots/task-4-2-security-auditor-model.PNG)
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
 Add your screenshot here.
-
+![Screenshot 3](./screenshots/task-4-3-cost-optimizer-model.PNG)
 ---
 
 # Task 3 — Run the Security Auditor
@@ -73,15 +74,13 @@ Trigger the security auditor agent and analyze the generated security report for
 ### Evidence
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
-
-Add your screenshot here.
+![Screenshot 4](./screenshots/task-4-4-security-audit-message.PNG)
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
-
+![Screenshot 5](./screenshots/task-4-5-complete-audit-report.PNG)
 ---
 
 # Task 4 — Run the Cost Optimizer
@@ -95,7 +94,8 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 #### Screenshot 6 — The full cost optimization report
 
 Add your screenshot here.
-
+![Screenshot 6](./screenshots/task-4-6a-cost-optimiser.PNG)
+![Screenshot 6](./screenshots/task-4-6b-cost-optimizer.PNG)
 ---
 
 # Submission Instructions
@@ -109,10 +109,9 @@ Add your screenshot here.
 ## GitHub Repository URL
 
 Paste your forked repository URL here:
+https://github.com/enejepromise/Ultimate-Agentic-DevOps-with-Claude-Code
 
-`__________________________`
-
----
+Submission repository (screenshots and write-ups): https://github.com/enejepromise/devops-micro-internship-pravinmishra
 
 # Completion Checklist
 
