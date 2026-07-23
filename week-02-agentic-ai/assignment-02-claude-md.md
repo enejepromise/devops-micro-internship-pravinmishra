@@ -20,7 +20,8 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 #### Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
 
-![alt text](<Task2 screenshot 1.png>)
+![Screenshot 1](<./screenshots/task-2-1-before-claude.PNG>)
+
 
 ---
 
@@ -34,8 +35,8 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 #### Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
 
-![alt text](<TAsk2 screenshot 2a.png>)
-![alt text](<TAsk2 screenshot 2b.png>)
+![Screenshot 2](<./screenshots/task-2-2-with-claude-md.PNG>)
+
 ---
 
 # Task 3 — Customize the CLAUDE.md
@@ -48,7 +49,8 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
 
-![alt text](<Task2 screenshot 3.png>)
+![Screenshot 3](<./screenshots/task2-3-customised-claude-md.PNG>)
+
 
 ---
 
@@ -62,11 +64,10 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 #### Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
 
-![alt text](<Task2 screenshot 4.png>)
----
+![Screenshot 4](<./screenshots/task-2-4-s3.PNG>)
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
-![alt text](<Task2 screenshot5.png>)
+![Screenshot 5](<./screenshots/task-2-5-react-error.PNG>)
 
 ---
 
@@ -80,7 +81,7 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 #### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
-Add your screenshot here.
+![Screenshot 6](<./screenshots/task-2-5-claude-in-git.PNG>)
 
 ---
 
