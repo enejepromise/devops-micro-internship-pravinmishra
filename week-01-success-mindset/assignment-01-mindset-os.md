@@ -151,7 +151,7 @@ Include this line:
 
 ## Your Article
 
-Add your answer her
+[My-article](https://medium.com/@enejepromise/five-years-after-making-the-decision-to-take-my-career-seriously-eneje-promise-had-transformed-14b855320a61?sharedUserId=enejepromise)
 
 ### Public Link
 
