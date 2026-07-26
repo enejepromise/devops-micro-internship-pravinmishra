@@ -20,7 +20,7 @@ Generate a GitHub Personal Access Token (PAT) that will be used for MCP authenti
 
 #### Screenshot 1 — GitHub token creation page showing the selected scopes (`repo`, `read:user`) — token value must NOT be visible
 
-Add your screenshot here.
+![Screenshot 1](./screenshots/task-5-github-accesstoken.PNG)
 
 ---
 
@@ -34,8 +34,7 @@ Create and configure the `.mcp.json` file to define the GitHub MCP server.
 
 #### Screenshot 2 — `.mcp.json` open in VS Code showing the full configuration
 
-Add your screenshot here.
-
+![Screenshot 2](./screenshots/task-5-2-mcp-file.PNG)
 ---
 
 # Task 3 — Add Your Token to settings.local.json
@@ -48,8 +47,7 @@ Store your GitHub token securely in `.claude/settings.local.json` and ensure it 
 
 #### Screenshot 3 — `settings.local.json` open in VS Code showing the `env` section — **blur or cover the actual GitHub token value**
 
-Add your screenshot here.
-
+![Screenshot 3](./screenshots/task-5-3-github-access-token.PNG)
 ---
 
 # Task 4 — Verify the Connection with /mcp
@@ -62,8 +60,7 @@ Confirm that the GitHub MCP server is successfully connected inside Claude Code.
 
 #### Screenshot 4 — `/mcp` output showing `github: connected`
 
-Add your screenshot here.
-
+![Screenshot 4](./screenshots/task-5-5-mcp.PNG)
 ---
 
 # Task 5 — Run a Live GitHub Query
@@ -76,8 +73,8 @@ Verify MCP functionality by retrieving real-time data from your GitHub account u
 
 #### Screenshot 5 — Claude's response showing the GitHub MCP tool call and the retrieved README.md content.
 
-Add your screenshot here.
-
+![Screenshot 5](./screenshots/task-5-6-mcp-readme.PNG)
+![Screenshot 5](./screenshots/task-5-6b-gitignore.PNG)
 ---
 
 # Submission Instructions
@@ -87,15 +84,14 @@ Add your screenshot here.
 - Confirm token value is hidden in all screenshots
 - Add all required screenshots to your submission
 - Push final changes to your forked repository
-
 ---
 
 ## GitHub Repository URL
 
 Paste your forked repository URL here:
 
-`__________________________`
-
+https://github.com/enejepromise/Ultimate-Agentic-DevOps-with-Claude-Code
+https://github.com/enejepromise/devops-micro-internship-pravinmishra
 ---
 
 ## Security Confirmation

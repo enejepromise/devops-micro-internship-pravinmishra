@@ -25,7 +25,9 @@ Take a screenshot of your interaction showing:
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
+![Task 1 Screenshot](screenshots/week-0-task1.PNG)
+![Task 1 Screenshot](screenshots/week-0-task1b.PNG)
+![Task 1 Screenshot](screenshots/week-0-task1c.PNG)
 
 
 Replace `task-1-chatgpt.png` with your actual screenshot file name.
@@ -34,8 +36,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
-
+I learnt how to prompt Ai on how to tech and how to simplify concepts for me. I also leant that protocol is set of rule that a system follows to enable it communicate with different part of the computer.
 ---
 
 # 🌐 Task 2: Internet and Networking
@@ -59,7 +60,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When someone visits the **EpicReads** website, their request is broken into small pieces called **packets**. This process is called **packet switching**, and each packet travels across the internet before being reassembled at the destination. Every device connected to the internet has a unique **IP address**, which works like a home address and helps packets find the correct computer. The **TCP/IP** protocol is the set of rules that ensures packets are delivered correctly, in the right order, and without missing information. **HTTP** (HyperText Transfer Protocol) is used to load web pages, while **HTTPS** is the secure version that encrypts data to protect users' information, such as passwords and payment details. Together, these technologies allow people anywhere in the world to safely access the EpicReads website hosted in Finland.
 
 ---
 
@@ -90,8 +91,7 @@ EpicReads bookstore has two application versions:
 ## Diagram Screenshot / Photo
 
 Save your diagram image in the `screenshots` folder and update the file name below.
-
-![Application Architecture Diagram](screenshots/task-3-diagram.png)
+![Application architecture](<Application architecure-1.PNG>)
 
 
 Replace `task-3-diagram.png` with your actual diagram file name.
@@ -102,18 +102,20 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* Html
+* Css
+* JavaScript
+
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Python(Django)
+* JavaScript(Nodejs)
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MongoDb
+* MySql
 
 ---
 
@@ -142,7 +144,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is like the internet's phonebook. It translates a domain name such as **epicreads.com** into an IP address that computers use to find a website. To connect **epicreads.com** to **52.172.142.222**, you should use an **A record** because it maps a domain name directly to an IPv4 address. This allows users to type **epicreads.com** in their browser instead of remembering the numeric IP address.
 
 ---
 
@@ -178,8 +180,7 @@ ls
 
 Save your screenshot in the `screenshots` folder and update the file name below.
 
-![VS Code Setup Screenshot](screenshots/task-5-vscode.png)
-
+![VS Code Setup Screenshot](screenshots/Vscode-screenshot.PNG)
 
 Replace `task-5-vscode.png` with your actual screenshot file name.
 
@@ -215,10 +216,10 @@ Add the following credit note at the end of your post:
 
 ## LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
+Paste your LinkedIn post URL here: https://lnkd.in/p/eGN3XWKE
 
 ```text
-Add your URL here...
+https://lnkd.in/p/eGN3XWKE
 ```
 
 ---
@@ -227,7 +228,33 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+I am applying for this DevOps Internship with a clear goal: to gain hands-on experience and real-world exposure to DevOps practices. I want to move beyond theory and build practical understanding by working on real systems, solving real problems, and learning how production environments actually operate.
+ 
+What I have Learned So Far
+ChatGPT – Writing Effective Prompts
+I learnt how to write clear, structured prompts to get precise and actionable technical explanations. This improves my ability to learn faster and avoid confusion when studying complex topics.
+
+Internet & Networking – I now understand core concepts like:
+IP Addressing – identifying devices on a network
+
+Packet Switching – breaking data into small packets for efficient delivery
+
+TCP/IP – rules that govern communication between devices
+
+HTTP/HTTPS – protocols used for web communication, with HTTPS adding security 
+
+Application Architecture – I explored system design basics:
+Two-tier architecture (Frontend + Database)
+Three-tier architecture (Frontend + Backend + Database)
+
+DNS – Using A records to map domains to IPs and understanding traffic flow. It translates domain names like epicreads.com into IP addresses so users can access websites easily.
+
+VS Code Setup – Creating an efficient, productivity-focused development environment
+
+Pravin Mishra
+
+
+P.S. This post is part of the DevOps Micro Internship (DMI) Cohort 3 run by Pravin Mishra. You can be part of this learning community too. JOIN HERE: https://lnkd.in/e3uAcWXm | DMI Cohort 3: https://lnkd.in/e6KRPhXh
 
 ---
 
@@ -235,19 +262,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+What i found easy was the fact that i can prompt Ai in way it should teach me the way i will understand 
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+What i found difficult was drawing the application architecture because i am not good at drawing.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+I will improve on reading my task severally to fully graspe what the task entails 
 
 ---
 
