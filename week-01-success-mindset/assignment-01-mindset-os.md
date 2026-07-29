@@ -147,7 +147,7 @@ Looking back, her success was not defined only by the awards she received or the
 
 Include this line:
 
-> **P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). You can start your DevOps journey by joining this [Discord community](https://discord.pravinmishra.com/) ( https://discord.pravinmishra.com/ ).**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
 
 ## Your Article
 
@@ -156,8 +156,8 @@ Include this line:
 ### Public Link
 
 Paste your link here:
-https://medium.com/@enejepromise/five-years-after-making-the-decision-to-take-my-career-seriously-eneje-promise-had-transformed-14b855320a61
-`__________________________`
+
+`______________________https://medium.com/@enejepromise/five-years-after-making-the-decision-to-take-my-career-seriously-eneje-promise-had-transformed-14b855320a61?sharedUserId=enejepromise____`
 
 ---
 
@@ -355,7 +355,7 @@ From this week going forward, I will write out my weekly goals every Sunday at 7
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+`Add your URL here`
 
 ---
 
@@ -375,10 +375,10 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ## 📌 Resources
 
-- 🌐 **DMI Official Website:** https://pravinmishra.com/dmi  
-- 🎓 **DevOps for Beginners (Udemy):** https://www.udemy.com/course/devops-for-beginners-docker-k8s-cloud-cicd-4-projects/  
-- 🎓 **Ultimate Agentic AI DevOps with Clude Code** https://www.udemy.com/course/ultimate-agentic-ai-devops-with-claude-code/?referralCode=448389767BC96284087B
-- 🎓 **DevOps with Claude Code: Terraform, EKS, ArgoCD & Helm** https://www.udemy.com/course/devops-with-claude-code-terraform-eks-argocd-helm/?referralCode=1C5B734505D65A010FA3
+- 🌐 **DMI Official Website:** https://dmi.pravinmishra.com?utm_source=github&utm_medium=readme  
+- 🎓 **University:** https://university.pravinmishra.com?utm_source=github&utm_medium=readme  
+- 💬 **Discord Community:** https://discord.pravinmishra.com?utm_source=github&utm_medium=readme  
+- 📝 **Blog:** https://dmi.pravinmishra.com/blog?utm_source=github&utm_medium=readme  
 - ▶️ **YouTube Playlist (DMI Cohort 3):** https://www.youtube.com/playlist?list=PLFeSNDtI4Cho  
 - 🔗 **Pravin Mishra (LinkedIn):** https://www.linkedin.com/in/pravin-mishra-aws-trainer/  
 - 🏢 **CloudAdvisory (LinkedIn):** https://www.linkedin.com/company/thecloudadvisory/
