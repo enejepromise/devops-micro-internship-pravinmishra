@@ -124,13 +124,12 @@ Verify the React application is publicly accessible via the server's public IP.
 
 #### Screenshot 9 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
 ![alt text](<screenshot 9a.PNG>)
 ---
 
 #### Screenshot 10 — Browser showing the deployed React app at `http://<public-ip>` with your name and date visible
 
-Add your screenshot here.
+
 ![alt text](<screenshot 9.PNG>)
 ---
 
@@ -141,15 +140,13 @@ Add your screenshot here.
 #### LinkedIn Post URL
 
 Paste your LinkedIn post URL here:
-
-`__________________________`
+https://lnkd.in/p/ezv4Tk3s
 
 ---
 
 #### Screenshot — LinkedIn post showing the deployed application
 
-Add your screenshot here.
-
+![Screenshot](./screenshots/react-linkedin-post.PNG)
 ---
 
 # Submission Instructions

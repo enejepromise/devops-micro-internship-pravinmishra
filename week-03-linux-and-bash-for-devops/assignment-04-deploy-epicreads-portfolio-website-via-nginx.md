@@ -19,7 +19,7 @@ Verify the Ubuntu VM and Nginx are ready for deployment.
 ### Evidence
 
 #### Screenshot 0 — Output of `sudo systemctl status nginx --no-pager` showing Active (running)
-![alt text](<task 4 1.PNG>)
+![Sccreen0hot 9](<screenshots/task 4 1.PNG>)
 
 ---
 
@@ -32,7 +32,8 @@ Download and extract the portfolio website template.
 ### Evidence
 
 #### Screenshot 1 — Output of `ls -la` showing the extracted project folder
-![alt text](<task 4 2.PNG>)
+![Sccreen0hot 9](<screenshots/task 4 2.PNG>)
+
 
 ---
 
@@ -46,7 +47,8 @@ Update the website footer with your deployment details.
 
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
-![alt text](<task 4 3.PNG>)
+![Sccreen0hot 9](<screenshots/task 4 3.PNG>)
+
 ---
 
 # Task 3 — Deploy Website via Nginx
@@ -60,12 +62,13 @@ Deploy the portfolio website to the Nginx web root.
 #### Screenshot 3 — Output of `sudo nginx -t` showing configuration test successful
 
 
-![alt text](<task 4 4.PNG>)
+![Sccreen0hot 9](<screenshots/task 4 4.PNG>)
 ---
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
-![alt text](<task 4 5.PNG>)
+![Sccreen0hot 9](<screenshots/task 4 5.PNG>)
+
 ---
 
 # Task 4 — Verify Website is Live
@@ -79,14 +82,15 @@ Verify the deployed website is publicly accessible and the footer contains your 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
 Add your screenshot here.
-![alt text](<task 4 7.PNG>)
+![Sccreen0hot 9](<screenshots/task 4 7.PNG>)
 
 ---
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
 Add your screenshot here.
-![alt text](<task 4 6.PNG>)
+![Sccreen0hot 9](<screenshots/task 4 6.PNG>)
+
 ---
 
 # Task 5 — Mini Real DevOps Operational Check
@@ -100,13 +104,14 @@ Verify the deployed website and Nginx service are healthy.
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
 
-![alt text](<task 4.PNG>)
+![Sccreen0hot 9](<screenshots/task 4.PNG>)
+
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
+![Sccreen0hot 9](<screenshots/image.PNG>)
 
-![alt text](image.png)
 
 ---
 
@@ -118,14 +123,13 @@ Verify the deployed website and Nginx service are healthy.
 
 Paste your LinkedIn post URL here:
 
-`__________________________`
+[`__________________________`](https://lnkd.in/p/e9Xs2Eh7)
 
 ---
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-Add your screenshot here.
-
+![Sccreen0hot 9](<screenshots/task-4-linkedin.PNG>)
 ---
 
 # Submission Instructions

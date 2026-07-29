@@ -20,12 +20,13 @@ Verify that Bash is available on your system and create a clean workspace for th
 
 #### Screenshot 1 — Output of `echo $SHELL` and `bash --version`
 
-![alt text](<task 5 1.PNG>)
+![Screenshot](<screenshots/task 5 1.PNG>)
 ---
 
 #### Screenshot 2 — Output of `pwd` and `ls -lah` showing the scripts directory
 
-![alt text](<task 5 2.PNG>)
+![Screenshot](<screenshots/task 5 2.PNG>)
+
 ---
 
 ### Notes
@@ -60,20 +61,22 @@ Create your first Bash script, make it executable, and run it from the terminal.
 ### Evidence
 
 #### Screenshot 1 — Content of `first-script.sh`
+![Screenshot](<screenshots/task 5 3.PNG>)
 
-![alt text](<task 5 3.PNG>)
 
 ---
 
 #### Screenshot 2 — Output of `./first-script.sh`
 
-![alt text](<task 5 4.PNG>)
+![Screenshot](<screenshots/task 5 4.PNG>)
+
 
 ---
 
 #### Screenshot 3 — Output of `ls -l first-script.sh` showing executable permission
 
-![alt text](<task 5 5.PNG>)
+![Screenshot](<screenshots/task 5 5.PNG>)
+
 
 ---
 
@@ -107,13 +110,15 @@ Use variables to store and display user-related information.
 
 #### Screenshot 1 — Content of `user-info.sh`
 
-![alt text](<task 5 6.PNG>)
+![Screenshot](<screenshots/task 5 6.PNG>)
+
 
 ---
 
 #### Screenshot 2 — Output of `./user-info.sh`
 
-![alt text](<task 5 7.PNG>)
+![Screenshot](<screenshots/task 5 7.PNG>)
+
 
 ---
 
@@ -146,12 +151,13 @@ Use arrays and loops to print a checklist of tools used in Bash scripting.
 
 #### Screenshot 1 — Content of `tools-checklist.sh`
 
-![alt text](<task 5 8.PNG>)
+![Screenshot](<screenshots/task 5 8.PNG>)
+
 ---
 
 #### Screenshot 2 — Output of `./tools-checklist.sh`
 
-![alt text](<task 5 9.PNG>)
+![Screenshot](<screenshots/task 5 9.PNG>)
 
 ---
 
@@ -189,13 +195,15 @@ Use loops to repeat a task multiple times.
 
 #### Screenshot 1 — Content of `counter.sh`
 
-![alt text](<task 5 10.PNG>)
+
+![Screenshot](<screenshots/task 5 10.PNG>)
 
 ---
 
 #### Screenshot 2 — Output of `./counter.sh`
 
-![alt text](<task 5 11.PNG>)
+![Screenshot](<screenshots/task 5 11.PNG>)
+
 
 ---
 
@@ -236,19 +244,22 @@ Use file checks and conditionals to verify whether files and directories exist.
 
 #### Screenshot 1 — Output of `ls -lah ../test-folder`
 
-![alt text](<task 5 12.PNG>)
+![Screenshot](<screenshots/task 5 12.PNG>)
+
 
 ---
 
 #### Screenshot 2 — Content of `file-check.sh`
 
-![alt text](<task 5 13.PNG>)
+![Screenshot](<screenshots/task 5 13.PNG>)
+
 
 ---
 
 #### Screenshot 3 — Output of `./file-check.sh`
 
-![alt text](<task 5 14.PNG>)
+![Screenshot](<screenshots/task 5 14.PNG>)
+
 
 ---
 
@@ -286,25 +297,29 @@ Use if-else conditionals to make decisions based on a variable value.
 
 #### Screenshot 1 — Content of `score-check.sh` with `score=85`
 
-![alt text](<task 5 85.PNG>)
+![Screenshot](<screenshots/task 5 85.PNG>)
 
 ---
 
 #### Screenshot 2 — Output showing `Result: Pass`
 
-![alt text](<task 5 pass.PNG>)
+
+![Screenshot](<screenshots/task 5 pass.PNG>)
+
 
 ---
 
 #### Screenshot 3 — Content of `score-check.sh` with `score=55`
 
-![alt text](<task 5 55.PNG>)
+![Screenshot](<screenshots/task 5 55.PNG>)
+
 
 ---
 
 #### Screenshot 4 — Output showing `Result: Retry`
 
-![alt text](<task 5 fail-1.PNG>)
+![Screenshot](<screenshots/task 5 fail-1.PNG>)
+
 
 ---
 
@@ -342,18 +357,23 @@ Create a final Bash script using functions to organize reusable code.
 
 #### Screenshot 1 — Content of `final-automation.sh`
 
-![alt text](<task 5 final.PNG>)
+![Screenshot](<screenshots/task 5 final.PNG>)
+
 ---
 
 #### Screenshot 2 — Output of `./final-automation.sh`
 
-![alt text](<task 5 final 2.PNG>)
+
+![Screenshot](<screenshots/task 5 final 2.PNG>)
+
 
 ---
 
 #### Screenshot 3 — Output of `ls -lah` showing all created scripts
 
-![alt text](<task 5 last.PNG>)
+
+![Screenshot](<screenshots/task 5 last.PNG>)
+
 ---
 
 ### Notes
@@ -387,14 +407,15 @@ The final script combines variables to store data, arrays to hold multiple value
 #### LinkedIn Post URL
 
 Paste your LinkedIn post URL here:
-
-`__________________________`
+https://lnkd.in/p/eAP7J6mq
+``
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![Screenshot](<screenshots/scripting.PNG>)
+
 
 ---
 

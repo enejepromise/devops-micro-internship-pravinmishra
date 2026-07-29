@@ -20,23 +20,24 @@ Verify that the deployed React application is reachable from the browser and con
 
 #### Screenshot 1 — Browser showing the React app with your Full Name visible on the UI
 
-![alt text](<react app.PNG>)
+![Screenshot 1](<screenshots/react app.PNG>)
 
 ---
 
 #### Screenshot 2 — Output of `ip a`
 
-![alt text](<task 3 2.PNG>)
+![Screenshot 2](<screenshots/task 3 2.PNG>)
+
 ---
 
 #### Screenshot 3 — Output of `sudo ss -tulpen`
 
-![alt text](<task 3 3.PNG>)
+![Screenshot 3](<screenshots/task 3 3.PNG>)
 ---
 
 #### Screenshot 4 — Output of `sudo ufw status`
 
-![alt text](<task 3 4.PNG>)
+![Screenshot 4](<screenshots/task 3 4.PNG>)
 ---
 
 ### Notes
@@ -81,16 +82,16 @@ Verify that Nginx is properly installed, running, enabled at boot, and safely co
 
 #### Screenshot 1 — Output of `systemctl status nginx --no-pager`
 
-![alt text](<task 3 5.PNG>)
+![Screenshot](<screenshots/task 3 5.PNG>)
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t`
-![alt text](<task 3 6.PNG>)
+![Screenshot](<screenshots/task 3 6.PNG>)
 
 ---
 
 #### Screenshot 3 — Output of `sudo ss -lptn '( sport = :80 )'`
-![alt text](<task 3 7.PNG>)
+![Screenshot](<screenshots/task 3 7.PNG>)
 
 ---
 
@@ -125,18 +126,18 @@ Verify real traffic flow and analyze logs to understand system behavior and erro
 ### Evidence
 
 #### Screenshot 1 — Output of `sudo tail -n 30 /var/log/nginx/access.log`
-![alt text](<task 3 8.PNG>)
+![Screenshot](<screenshots/task 3 8.PNG>)
 
 ---
 
 #### Screenshot 2 — Output of `sudo tail -n 30 /var/log/nginx/error.log`
 
-![alt text](<task 3 9.PNG>)
+![Screenshot](<screenshots/task 3 9.PNG>)
 ---
 
 #### Screenshot 3 — Output of `sudo journalctl -u nginx --no-pager -n 50`
 
-![alt text](<task 3 10.PNG>)
+![Screenshot](<screenshots/task 3 10.PNG>)
 ---
 
 ### Notes
@@ -176,25 +177,23 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 1 — Output of `uptime`
 
-![alt text](<task 3 11.PNG>)
+![Screenshot](<screenshots/task 3 11.PNG>)
 ---
 
 #### Screenshot 2 — Output of `free -h`
 
 Add your screenshot here.
-![alt text](<task 3 12.PNG>)
+![Screenshot](<screenshots/task 3 12.PNG>)
 ---
 
 #### Screenshot 3 — Output of `df -h`
 
-Add your screenshot here.
-![alt text](<task 3 13.PNG>)
+![Screenshot](<screenshots/task 3 13.PNG>)
 ---
 
 #### Screenshot 4 — Output of `sudo du -sh /var/* | sort -h`
 
-Add your screenshot here.
-![alt text](<task 3 14.PNG>)
+![Screenshot](<screenshots/task 3 14.PNG>)
 ---
 
 ### Notes
@@ -224,19 +223,17 @@ Ensure the correct React build is deployed and Nginx is serving it properly.
 
 #### Screenshot 1 — Output of `ls -lah /var/www/html | head -n 20`
 
-Add your screenshot here.
-![alt text](<task 3 15.PNG>)
+![Screenshot](<screenshots/task 3 15.PNG>)
 ---
 
 #### Screenshot 2 — Output of `grep -R "Deployed by" -n /var/www/html 2>/dev/null | head`
 
-Add your screenshot here.
-![alt text](<task 3 16.PNG>)
+![Screenshot](<screenshots/task 3 16.PNG>)
 ---
 
 #### Screenshot 3 — Output of `grep -n "try_files" /etc/nginx/sites-available/default`
 
-![alt text](<task 3 17.PNG>)
+![Screenshot](<screenshots/task 3 17.PNG>)
 ---
 
 ### Notes
@@ -258,19 +255,21 @@ Simulate a real-world Nginx misconfiguration and recover the service safely.
 ### Evidence
 
 #### Screenshot 1 — Output of `sudo nginx -t` showing the syntax error (broken config)
-![alt text](<task 3 18.PNG>)
+![Screenshot](<screenshots/task 3 18.PNG>)
 
 ---
 
 #### Screenshot 2 — Output of `sudo nginx -t` showing syntax ok (fixed config)
 
-![alt text](<task 3 19.PNG>)
+![Screenshot](<screenshots/task 3 19.PNG>)
 ---
 
 #### Screenshot 3 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-Add your screenshot here.
-![alt text](<task 3 20.PNG>)
+
+![Screenshot](<screenshots/task 3 20.PNG>)
+
+
 ---
 
 ### Notes
@@ -302,13 +301,16 @@ Simulate missing deployment content and recover the application safely.
 
 #### Screenshot 1 — Output of `curl -I http://<public-ip>` showing failure (non-200 response)
 
-![alt text](<task 3 21.PNG>)
+![Screenshot](<screenshots/task 3 21.PNG>)
+
 
 ---
 
 #### Screenshot 2 — Output of `curl -I http://<public-ip>` confirming recovery (200 OK)
 
-![alt text](<task 3 22.PNG>)
+
+![Screenshot](<screenshots/task 3 22.PNG>)
+
 ---
 
 ### Notes
@@ -348,7 +350,7 @@ Answer the following in your own words:
 
 **1. Why is SSH key-based authentication more secure than sharing passwords?**
 
-SSH key-based authentication is more secure because it uses a pair of cryptographic keys instead of a password. Private keys are much harder to guess or crack with brute-force attacks, and they are never sent over the network during authentication. This makes unauthorized access much more difficult than using passwords alone.
+SSH key-based  authentication is more secure because it uses a pair of cryptographic keys instead of a password. Private keys are much harder to guess or crack with brute-force attacks, and they are never sent over the network during authentication. This makes unauthorized access much more difficult than using passwords alone.
 ---
 
 **2. Why should only required ports be open on a production server?**
@@ -383,13 +385,13 @@ Cloud resources should be stopped or terminated when they are no longer needed t
 
 Paste your LinkedIn post URL here:
 
-`__________________________`
+[`__________________________`](https://lnkd.in/p/eX7rVCpC)
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![Screenshot](screenshots/linkedin-post-task3.PNG)
 
 ---
 
