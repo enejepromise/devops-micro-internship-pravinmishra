@@ -132,7 +132,7 @@ This is not a course. It is an internship-style program — real deployments, re
 |------|-------|--------|------------|---------------|-----------|
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved |[LinkedIn](/https://www.linkedin.com/posts/promise-eneje_devops-micro-internship-dmi-by-pravin-activity-7473751717235482624-z9Av?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxLOocB8eiE_WpaoseypJvX_BDdSE73Mcc) | [Blog](https://dev.to/promzy/internet-networking-explained-the-foundation-every-devops-engineer-should-know-b51)
 | 01 | Success Mindset | ✅ Completed | ✅ Solved |  [LinkedIn](/) | [Blog](https://medium.com/@enejepromise/five-years-after-making-the-decision-to-take-my-career-seriously-eneje-promise-had-transformed-14b855320a61?sharedUserId=enejepromise)
-| 02 | Agentic AI with Claude Code | 🔄 In Progress| 🔄 In Progress | — | [LinkedIn](/) | [Blog](https://medium.com/@enejepromise/my-week-2-devops-internship-reflection-54acf19e447a?sharedUserId=enejepromise)
+| 02 | Agentic AI with Claude Code | 🔄 In Progress| 🔄 In Progress | [LinkedIn](/) | [Blog](https://medium.com/@enejepromise/my-week-2-devops-internship-reflection-54acf19e447a?sharedUserId=enejepromise)
 | 03 | Linux & Bash for DevOps | ⬜ 🔄 In Progress | 🔄 In Progress | [LinkedIn](/) | [Blog]()
 | 04 | Git & GitHub | ⬜ 🔄 In Progress | 🔄 In Progress |[LinkedIn](/) | [Blog]()
 | 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
