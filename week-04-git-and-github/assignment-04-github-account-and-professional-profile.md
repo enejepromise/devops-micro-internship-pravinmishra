@@ -20,14 +20,13 @@ Confirm that you have a working GitHub account and can access your GitHub dashbo
 
 #### Screenshot 1 — GitHub dashboard or Home page showing you're signed in, with your username visible
 
-Add your screenshot here.
+![Screenshort 1](screenshots/git-ass11-1.PNG)
 
 ---
 
 #### Screenshot 2 (Optional but Recommended) — Your GitHub profile with `https://github.com/<username>` visible in the browser address bar
 
-Add your screenshot here.
-
+![Screenshot 2](screenshots/git-ass11-2.PNG)
 ---
 
 # Task 2 — Explore GitHub Like a Professional
@@ -40,19 +39,18 @@ Browse Trending, search for a public project, star at least one repository, and 
 
 #### Screenshot 3 — GitHub Trending page visible in the browser
 
-Add your screenshot here.
+![Screenshot 3](screenshots/git-ass11-3.PNG)
 
 ---
 
 #### Screenshot 4 — A repository page showing the Star button in the Starred state
-
-Add your screenshot here.
+![Screenshot 4](screenshots/git-ass11-4.PNG)
 
 ---
 
 #### Screenshot 5 — Your forked repository page with your username and repository name visible in the URL
 
-Add your screenshot here.
+![Screenshot 5](screenshots/git-ass11-5.PNG)
 
 ---
 
@@ -65,9 +63,7 @@ Add a professional bio to your GitHub profile — and optionally your location, 
 ### Evidence
 
 #### Screenshot 6 — Your public GitHub profile showing your username and professional bio
-
-Add your screenshot here.
-
+![Screenshort 6](screenshots/git-ass11-6.PNG)
 ---
 
 # Submission Instructions
