@@ -75,13 +75,13 @@ Add the provided Contact Page link to `index.html` and commit it separately usin
 
 #### Screenshot 6 — Output of `git status` showing `index.html` as modified before staging
 
-Add your screenshot here.
+![Screenshots 6](git-after-modification-statustask10.PNG)
 
 ---
 
 #### Screenshot 7 — Output of `git commit`
 
-Add your screenshot here.
+![Screenshot 7](git-task-10-7.PNG)
 
 ---
 
@@ -92,7 +92,7 @@ Add your screenshot here.
 ---
 
 # Task 5 — Verify Isolation (Prove the Default Branch Is Unchanged)
-add screenshot here
+
 
 ## Goal
 
@@ -135,7 +135,7 @@ Merge `feature/contact-page` into your default branch and confirm the Contact pa
 #### Screenshot 13 — Browser showing the Contact page opened from the homepage link on the default branch
 
 
-
+![Screenshot 13](screenshots/contact-output.PNG)
 ---
 
 # Task 7 — Inspect History (Graph View)
