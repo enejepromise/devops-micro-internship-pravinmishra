@@ -109,7 +109,6 @@ Apply Nginx configuration for React routing and confirm the service is active.
 
 #### Screenshot 8 — Output of `cat /etc/nginx/sites-available/default` showing the Nginx config
 
-Add your screenshot here.
 ![alt text](<screenshot 8.PNG>)
 
 ---
@@ -124,7 +123,7 @@ Verify the React application is publicly accessible via the server's public IP.
 
 #### Screenshot 9 — Output of `curl ifconfig.me` showing the server's public IP address
 
-![alt text](<screenshot 9a.PNG>)
+![Screenshot 9](<screenshot 9a.PNG>)
 ---
 
 #### Screenshot 10 — Browser showing the deployed React app at `http://<public-ip>` with your name and date visible
@@ -139,7 +138,6 @@ Verify the React application is publicly accessible via the server's public IP.
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
 https://lnkd.in/p/ezv4Tk3s
 
 ---
@@ -159,17 +157,17 @@ https://lnkd.in/p/ezv4Tk3s
 
 # Completion Checklist
 
-- [ ] Node.js and npm installed and verified (Screenshot 1)
-- [ ] Nginx installed and running (Screenshot 2)
-- [ ] Repository cloned and files verified (Screenshot 3)
-- [ ] App.js updated with full name and date (Screenshot 4)
-- [ ] Production build generated (Screenshot 5)
-- [ ] Build files deployed to Nginx web root (Screenshot 6)
-- [ ] Nginx configured and active (Screenshots 7 & 8)
-- [ ] Public IP retrieved (Screenshot 9)
-- [ ] React app accessible in browser with personal details visible (Screenshot 10)
-- [ ] LinkedIn post published and URL submitted
-- [ ] No sensitive data exposed
+- [x] Node.js and npm installed and verified (Screenshot 1)
+- [x] Nginx installed and running (Screenshot 2)
+- [x] Repository cloned and files verified (Screenshot 3)
+- [x] App.js updated with full name and date (Screenshot 4)
+- [x] Production build generated (Screenshot 5)
+- [x] Build files deployed to Nginx web root (Screenshot 6)
+- [x] Nginx configured and active (Screenshots 7 & 8)
+- [x] Public IP retrieved (Screenshot 9)
+- [x] React app accessible in browser with personal details visible (Screenshot 10)
+- [x] LinkedIn post published and URL submitted
+- [x] No sensitive data exposed
 
 ---
 

@@ -182,7 +182,7 @@ Assess server capacity and detect potential performance or failure risks.
 
 #### Screenshot 2 — Output of `free -h`
 
-Add your screenshot here.
+
 ![Screenshot](<screenshots/task 3 12.PNG>)
 ---
 
@@ -383,9 +383,8 @@ Cloud resources should be stopped or terminated when they are no longer needed t
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
 
-[`__________________________`](https://lnkd.in/p/eX7rVCpC)
+(https://lnkd.in/p/eX7rVCpC)
 
 ---
 
@@ -405,17 +404,17 @@ Paste your LinkedIn post URL here:
 
 # Completion Checklist
 
-- [ ] Task 1: Screenshots (browser, ip a, ss -tulpen, ufw status) + Notes answered
-- [ ] Task 2: Screenshots (nginx status, nginx -t, ss port 80) + Notes answered
-- [ ] Task 3: Screenshots (access log, error log, journalctl) + Notes answered
-- [ ] Task 4: Screenshots (uptime, free -h, df -h, du -sh) + Notes answered
-- [ ] Task 5: Screenshots (ls html, grep deployed by, grep try_files) + Notes answered
-- [ ] Task 6: Screenshots (nginx -t fail, nginx -t pass, curl recovery) + Notes answered
-- [ ] Task 7: Screenshots (curl failure, curl recovery) + Notes answered
-- [ ] Task 8: Security & Reliability Notes answered
-- [ ] LinkedIn post published and URL submitted
-- [ ] Full Name visible in all required screenshots
-- [ ] No sensitive data exposed
+- [x] Task 1: Screenshots (browser, ip a, ss -tulpen, ufw status) + Notes answered
+- [x] Task 2: Screenshots (nginx status, nginx -t, ss port 80) + Notes answered
+- [x] Task 3: Screenshots (access log, error log, journalctl) + Notes answered
+- [x] Task 4: Screenshots (uptime, free -h, df -h, du -sh) + Notes answered
+- [x] Task 5: Screenshots (ls html, grep deployed by, grep try_files) + Notes answered
+- [x] Task 6: Screenshots (nginx -t fail, nginx -t pass, curl recovery) + Notes answered
+- [x] Task 7: Screenshots (curl failure, curl recovery) + Notes answered
+- [x] Task 8: Security & Reliability Notes answered
+- [x] LinkedIn post published and URL submitted
+- [x] Full Name visible in all required screenshots
+- [x] No sensitive data exposed
 
 ---
 
