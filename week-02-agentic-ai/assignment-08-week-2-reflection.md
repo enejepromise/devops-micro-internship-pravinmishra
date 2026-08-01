@@ -46,15 +46,15 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
 
+![alt text](<screenshots/agentic blog post.PNG>)
 ---
 
 ### Submission Field
 
 Blog Link:
 
-`Add your URL here`
+`https://medium.com/@enejepromise/my-week-2-devops-internship-reflection-54acf19e447a`
 
 ---
 

@@ -81,18 +81,18 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather â
 Paste your forked repository URL here:
 https://github.com/enejepromise/Ultimate-Agentic-DevOps-with-Claude-Code.git
 
-`Add your URL here`
+
 https://github.com/enejepromise/devops-micro-internship-pravinmishra.git
 ---
 
 # Completion Checklist
 
-- [ ] Claude Code CLI installed successfully
-- [ ] Claude Code authenticated successfully
-- [ ] Repository forked successfully
-- [ ] Repository cloned and opened in VS Code
-- [ ] All required screenshots added
-- [ ] GitHub repository URL provided
+- [x] Claude Code CLI installed successfully
+- [x] Claude Code authenticated successfully
+- [x] Repository forked successfully
+- [x] Repository cloned and opened in VS Code
+- [x] All required screenshots added
+- [x] GitHub repository URL provided
 
 ---
 
