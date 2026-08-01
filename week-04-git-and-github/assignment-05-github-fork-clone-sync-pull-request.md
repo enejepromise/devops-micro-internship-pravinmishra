@@ -106,7 +106,7 @@ Open a Pull Request from `feature-readme-update` on your fork to `main` on the u
 
 #### Screenshot 9 — Successfully created Pull Request page with the PR number visible
 
-![Screenshot](screenshotgit-ass5-9.PNG)
+![Screenshot](screenshots/git-ass5-9.PNG)
 
 ---
 
