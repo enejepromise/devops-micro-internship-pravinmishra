@@ -75,13 +75,13 @@ Add the provided Contact Page link to `index.html` and commit it separately usin
 
 #### Screenshot 6 — Output of `git status` showing `index.html` as modified before staging
 
-![Screenshots 6](git-after-modification-statustask10.PNG)
+![Screenshots 6](screenshots/git-after-modification-statustask10.PNG)
 
 ---
 
 #### Screenshot 7 — Output of `git commit`
 
-![Screenshot 7](git-task-10-7.PNG)
+![Screenshot 7](screenshots/git-task-10-7.PNG)
 
 ---
 
@@ -108,7 +108,7 @@ Switch back to the default branch and confirm that `contact.html` and the Contac
 
 #### Screenshot 10 — Browser showing the homepage on the default branch with no Contact Page link
 
-![Screenshot 10](screenshots/git-task10-9-contactpage-absent-1.PNG)
+![Screenshot 10](screenshots/git-task10-9-contactpage-absent.PNG)
 
 ---
 
