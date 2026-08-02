@@ -63,7 +63,7 @@ Blog Link:
 ## Goal
 
 Share your Week 2 learning publicly on LinkedIn.
-
+https://www.linkedin.com/posts/promise-eneje_devops-agenticai-claudecode-activity-7489300737089310721-0VSs?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxLOocB8eiE_WpaoseypJvX_BDdSE73Mcc
 ---
 
 ### LinkedIn Post Requirements

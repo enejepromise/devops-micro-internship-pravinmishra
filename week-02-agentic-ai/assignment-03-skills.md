@@ -93,7 +93,7 @@ Initialize Terraform and execute the `/tf-plan` skill to observe plan execution 
 ## LinkedIn post URL
 https://www.linkedin.com/posts/promise-eneje_dmibypravinmishra-agenticai-claudecode-activity-7487893586408185856-VlXT?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxLOocB8eiE_WpaoseypJvX_BDdSE73Mcc
 
-Paste your forked repository URL here:
+
 https://github.com/enejepromise/devops-micro-internship-pravinmishra.git
 
 ---

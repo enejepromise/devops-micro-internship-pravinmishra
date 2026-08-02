@@ -100,6 +100,7 @@ Prove the tool-level hook works by asking Claude to execute a dangerous Bash com
 ### Evidence
 
 #### Screenshot 7 — PreToolUse hook blocking terraform destroy
+![alt text](screenshots/pre-tool-hook.PNG)
 
 ---
 
@@ -112,8 +113,10 @@ Prove the logging hook runs after a successful command execution and records Ter
 ### Evidence
 
 #### Screenshot 8 — Claude running terraform validate successfully
+![alt text](screenshots/claude-task5-posttool-hook.PNG)
 
 #### Screenshot 9 — `.claude/deploy.log` showing the logged command
+![alt text](screenshots/destroy-log-hook.PNG)
 
 ---
 
@@ -128,19 +131,19 @@ Your submission must include:
 
 # Completion Checklist
 
-- [ ] `.claude` folder structure created correctly
-- [ ] `user-prompt-guard.sh` created with UserPromptSubmit hook logic
-- [ ] `pre-tool-guard.sh` created with PreToolUse hook logic
-- [ ] `post-tool-logger.sh` created with PostToolUse logging logic
-- [ ] `settings.json` created with allow and deny permissions
-- [ ] `settings.json` configured to connect all three hooks:
-  - [ ] UserPromptSubmit
-  - [ ] PreToolUse
-  - [ ] PostToolUse
-- [ ] Destructive prompt test shows UserPromptSubmit blocked the request
-- [ ] Terraform destroy command test shows PreToolUse intercepted the command
-- [ ] Terraform validate test shows PostToolUse created the log entry
-- [ ] All required screenshots are captured
+- [x] `.claude` folder structure created correctly
+- [x] `user-prompt-guard.sh` created with UserPromptSubmit hook logic
+- [x] `pre-tool-guard.sh` created with PreToolUse hook logic
+- [x] `post-tool-logger.sh` created with PostToolUse logging logic
+- [x] `settings.json` created with allow and deny permissions
+- [x] `settings.json` configured to connect all three hooks:
+  - [x] UserPromptSubmit
+  - [x] PreToolUse
+  - [x] PostToolUse
+- [x] Destructive prompt test shows UserPromptSubmit blocked the request
+- [x] Terraform destroy command test shows PreToolUse intercepted the command
+- [x] Terraform validate test shows PostToolUse created the log entry
+- [x] All required screenshots are captured
 
 ---
 
