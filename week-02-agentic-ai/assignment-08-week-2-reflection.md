@@ -63,7 +63,7 @@ Blog Link:
 ## Goal
 
 Share your Week 2 learning publicly on LinkedIn.
-https://www.linkedin.com/posts/promise-eneje_devops-agenticai-claudecode-activity-7489300737089310721-0VSs?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxLOocB8eiE_WpaoseypJvX_BDdSE73Mcc
+
 ---
 
 ### LinkedIn Post Requirements
@@ -92,7 +92,7 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![alt text](screenshots/week2-reflection-post.PNG)
 
 ---
 
@@ -100,16 +100,33 @@ Add your screenshot here.
 
 LinkedIn Post Content (copy-paste here):
 
-```
-Paste your LinkedIn post content here
-```
+Reflecting on Week 2 of my DevOps Micro Internship completely changed my perspective on AI and DevOps.
 
+Before this Internship, I was just using AI as just a tool for answering questions and generating code. But having completed my week 2 Assignment, I had learned how Agentic AI can automate workflows, interact with external tools, and act as a true engineering assistant.
+
+Some of my biggest takeaways were:
+Learning how Skills turn repetitive prompts into reusable workflows.
+
+Understanding how MCP (Model Context Protocol) connects AI with real-world tools and services.
+
+Seeing Hooks, Permissions, and Memory demonstrate the importance of building AI systems that are secure, structured, and reliable.
+
+Generating a complete Terraform project with a single command, which gave me a glimpse into the future of infrastructure automation.
+
+Beyond the technical skills, I also learned something about myself: I learn best by building, making mistakes, and solving problems. This reinforced the importance of reading error messages carefully, following a checklist, and committing my work regularly.
+
+The biggest mindset shift? AI isn't replacing engineers, it empowers engineers to build better systems, automate repetitive work, and focus on solving meaningful problems.
+
+If you're starting your journey in DevOps or exploring Agentic AI, I hope my experience encourages you to keep learning and building.
+📖 Read the full blog here: [https://lnkd.in/e2C-DbRs]
+
+Follow my internship progress: https://lnkd.in/e2YERerU
+#DevOps #AgenticAI #ClaudeCode #Terraform #Automation #LearningInPublic #DMIByPravinMishra #OpenToLearn #TechJourney#AWS
 ---
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
-
+https://lnkd.in/p/eu7JNe2b
 ---
 
 # Submission Instructions
@@ -124,15 +141,15 @@ Paste your LinkedIn post content here
 
 # Completion Checklist
 
-* [ ] Blog written with required structure
-* [ ] Blog includes at least 2–3 Week 2 topics
-* [ ] Blog is publicly accessible
-* [ ] LinkedIn post created
-* [ ] Required P.S. line included
-* [ ] LinkedIn post content copied in submission field
-* [ ] Blog link added
-* [ ] LinkedIn post link added
-* [ ] Screenshots added to GitHub repo
+* [x] Blog written with required structure
+* [x] Blog includes at least 2–3 Week 2 topics
+* [x] Blog is publicly accessible
+* [x] LinkedIn post created
+* [x] Required P.S. line included
+* [x] LinkedIn post content copied in submission field
+* [x] Blog link added
+* [x] LinkedIn post link added
+* [x] Screenshots added to GitHub repo
 
 ---
 
