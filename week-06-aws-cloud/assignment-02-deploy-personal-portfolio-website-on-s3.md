@@ -20,7 +20,7 @@ Download or clone the portfolio website template from GitHub and confirm `index.
 
 #### Screenshot 1 — File Explorer or terminal showing the template folder contents with `index.html` visible
 
-Add your screenshot here.
+![alt text](screenshots/aws-ass2-shot1.PNG)
 
 ---
 
@@ -34,7 +34,7 @@ Create a globally unique S3 bucket in your chosen AWS region.
 
 #### Screenshot 2 — S3 bucket created screen showing the bucket name and region
 
-Add your screenshot here.
+![alt text](screenshots/aws-ass2-shot2.PNG)
 
 ---
 
@@ -48,7 +48,7 @@ Upload the contents of the template folder (not the folder itself) so `index.htm
 
 #### Screenshot 3 — S3 bucket Objects view showing `index.html` at the root level
 
-Add your screenshot here.
+![alt text](screenshots/aws-ass2-shot3-html-root2.PNG)
 
 ---
 
@@ -62,8 +62,11 @@ Enable S3 Static Website Hosting with `index.html` as the index document and `er
 
 #### Screenshot 4 — Static website hosting enabled screen showing the website endpoint
 
-Add your screenshot here.
+![alt text](screenshots/aws-ass2-static-endpoint.PNG)
 
+Additional evidence — Website endpoint tested before the bucket policy was applied
+
+![alt text](screenshots/aws-ass2-forbidden-page.PNG)
 ---
 
 # Task 5 — Make the Website Public (Bucket Policy + Permissions)
@@ -76,7 +79,7 @@ Adjust Block Public Access settings and save a bucket policy that grants public 
 
 #### Screenshot 5 — Bucket policy page showing the policy saved successfully, with the bucket name visible
 
-Add your screenshot here.
+![alt text](screenshots/aws-ass2-policy-permission.PNG)
 
 ---
 
@@ -90,7 +93,9 @@ Load the site through the S3 website endpoint and confirm the homepage, images, 
 
 #### Screenshot 6 — Browser showing the live website with the S3 website endpoint visible in the address bar
 
-Add your screenshot here.
+![alt text](screenshots/aws-ass2-website-live.PNG)
+Live S3 Website Endpoint: http://luis-bd-assets-20260812.s3-website.eu-north-1.amazonaws.com/
+
 
 ---
 
@@ -104,7 +109,8 @@ Edit a small visible detail, re-upload it to S3, and confirm the change appears 
 
 #### Screenshot 7 (optional) — Before/after view, or a browser view showing the updated text
 
-Add your screenshot here.
+![alt text](screenshots/aws-ass2-added-text.PNG)
+Live S3 Website Endpoint: http://luis-bd-assets-20260812.s3-website.eu-north-1.amazonaws.com/
 
 ---
 
@@ -118,15 +124,15 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: Template downloaded/cloned with `index.html` confirmed (Screenshot 1)
-- [ ] Task 2: Globally unique S3 bucket created (Screenshot 2)
-- [ ] Task 3: Website files uploaded with `index.html` at bucket root (Screenshot 3)
-- [ ] Task 4: Static website hosting enabled (Screenshot 4)
-- [ ] Task 5: Public-read bucket policy saved (Screenshot 5)
-- [ ] Task 6: Live website verified through the S3 website endpoint (Screenshot 6)
-- [ ] Task 7: Optional small update re-uploaded and verified (Screenshot 7)
-- [ ] S3 Website Endpoint URL included
-- [ ] No sensitive account information exposed
+- [x] Task 1: Template downloaded/cloned with `index.html` confirmed (Screenshot 1)
+- [x] Task 2: Globally unique S3 bucket created (Screenshot 2)
+- [x] Task 3: Website files uploaded with `index.html` at bucket root (Screenshot 3)
+- [x] Task 4: Static website hosting enabled (Screenshot 4)
+- [x] Task 5: Public-read bucket policy saved (Screenshot 5)
+- [x] Task 6: Live website verified through the S3 website endpoint (Screenshot 6)
+- [x] Task 7: Optional small update re-uploaded and verified (Screenshot 7)
+- [x] S3 Website Endpoint URL included
+- [x] No sensitive account information exposed
 
 ---
 

@@ -50,7 +50,7 @@ Start the web server and confirm the Mini Finance website is accessible through 
 
 #### Screenshot 1 — Browser showing the Mini Finance website running at the EC2 public IP
 
-Add your screenshot here.
+![alt text](screenshots/aws-ass2-mini-finance.PNG)
 
 ---
 
@@ -58,7 +58,32 @@ Add your screenshot here.
 
 Paste the public IP address of your EC2 instance here (e.g. `http://3.91.105.10`):
 
-`Add your URL here`
+http://13.49.224.225/
+
+### Deployment walkthrough
+
+# Deploying a Mini Finance Website on AWS EC2 with Nginx
+
+As part of this deployment, I launched an Ubuntu 24.04 `t3.micro` EC2 instance in a public subnet within the default VPC in the `eu-north-1` AWS region. The instance was configured with a security group that allowed HTTP traffic on port 80 from anywhere, while SSH access on port 22 was restricted to my own IP address rather than being exposed to the entire internet.
+
+After successfully connecting to the instance through SSH, I updated the Ubuntu system and installed Nginx, which would serve as the web server for the application. I also enabled Nginx to start automatically whenever the server boots.
+
+Next, I cloned the Mini Finance repository onto the EC2 instance and copied the required website files into Nginx's web root:
+
+```bash
+/var/www/html
+```
+
+Before serving the application, I removed Nginx's default `index.nginx-debian.html` file. This was important because Nginx's default configuration includes several possible index filenames. Leaving the default Ubuntu page in the web root could cause it to be served instead of the actual application's homepage.
+
+I also cleaned the web root by removing the repository's README, template notes, and Git tracking information. These files are useful during development but are not part of the website itself. Keeping unnecessary repository files in a publicly accessible web directory could expose internal project information without providing any benefit to website visitors.
+
+Before testing the application from a browser, I verified the deployment locally from the EC2 server using `curl` against `localhost`. The request returned an HTTP `200` response, confirming that Nginx was running correctly and successfully serving the deployed website files.
+
+This local test was an important troubleshooting step because it confirmed that the web server and application files were working correctly. Therefore, if the website could not be reached from an external browser, the remaining issue would most likely be related to networking, the EC2 public IP address, the security group, or the route between the public subnet and the internet.
+
+Overall, the deployment successfully demonstrated how to provision an AWS EC2 server, configure secure SSH and HTTP access, install and configure Nginx, deploy a website from a Git repository, clean the production web root, and verify the application locally before exposing it to external traffic.
+
 
 ---
 
@@ -72,13 +97,13 @@ Paste the public IP address of your EC2 instance here (e.g. `http://3.91.105.10`
 
 # Completion Checklist
 
-- [ ] EC2 instance launched in a public subnet with SSH (22) and HTTP (80) allowed
-- [ ] Connected to the instance via SSH
-- [ ] Web server (Nginx or Apache) installed
-- [ ] Mini Finance repository cloned and files copied to the web server root
-- [ ] Web server started and website verified in the browser (Screenshot 1)
-- [ ] EC2 Public IP URL included
-- [ ] No sensitive data exposed
+- [x] EC2 instance launched in a public subnet with SSH (22) and HTTP (80) allowed
+- [x] Connected to the instance via SSH
+- [x] Web server (Nginx or Apache) installed
+- [x] Mini Finance repository cloned and files copied to the web server root
+- [x] Web server started and website verified in the browser (Screenshot 1)
+- [x] EC2 Public IP URL included
+- [x] No sensitive data exposed
 
 ---
 
