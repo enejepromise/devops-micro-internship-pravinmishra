@@ -20,7 +20,6 @@ Confirm that Git works and that you are inside the correct `CodeTrack` repositor
 
 #### Screenshot 1 — Output of `pwd` showing you're inside `CodeTrack`
 
-Add your screenshot here.
 ![Screenshot 1](screenshots/git-pwd.PNG) 
 
 ---
@@ -70,7 +69,6 @@ Confirm both files show as untracked, then stage them individually with `git add
 
 #### Screenshot 5 — Output of `git status` showing both files as untracked
 
-Add your screenshot here.
  ![Screenshot 5](screenshots/git-untracked-file.PNG)   
 ---
 
