@@ -406,9 +406,8 @@ The final script combines variables to store data, arrays to hold multiple value
 
 #### LinkedIn Post URL
 
-Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://lnkd.in/p/eAP7J6mq
 
 ---
 
